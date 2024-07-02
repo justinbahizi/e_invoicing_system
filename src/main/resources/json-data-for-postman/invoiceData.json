@@ -1,0 +1,86 @@
+[
+    {
+        "id": 2,
+        "amount": 3000.00,
+        "invoiceDate": "2024-07-02",
+        "invoiceStatus": "CREATED",
+        "customer": {
+            "id": 2,
+            "name": "John Doe",
+            "email": "john@example.com",
+            "phoneNumber": "250788006011"
+        }
+    },
+    {
+        "id": 3,
+        "amount": 1400000.00,
+        "invoiceDate": "2024-07-02",
+        "invoiceStatus": "CREATED",
+        "customer": {
+            "id": 6,
+            "name": "Karim Johnson",
+            "email": "karim.johnson@gmail.com",
+            "phoneNumber": "250799223355"
+        }
+    },
+    {
+        "id": 4,
+        "amount": 460000000.00,
+        "invoiceDate": "2024-04-12",
+        "invoiceStatus": "CREATED",
+        "customer": {
+            "id": 7,
+            "name": "Eric Milner",
+            "email": "milner@gov.usa.com",
+            "phoneNumber": "250780206000"
+        }
+    },
+    {
+        "id": 5,
+        "amount": 465976000.00,
+        "invoiceDate": "2024-06-10",
+        "invoiceStatus": "CREATED",
+        "customer": {
+            "id": 3,
+            "name": "Mary Jane",
+            "email": "jane@example.com",
+            "phoneNumber": "250788296151"
+        }
+    },
+    {
+        "id": 6,
+        "amount": 60000000.00,
+        "invoiceDate": "2024-06-20",
+        "invoiceStatus": "CREATED",
+        "customer": {
+            "id": 3,
+            "name": "Mary Jane",
+            "email": "jane@example.com",
+            "phoneNumber": "250788296151"
+        }
+    },
+    {
+        "id": 7,
+        "amount": 1000000000.00,
+        "invoiceDate": "2024-06-10",
+        "invoiceStatus": "CREATED",
+        "customer": {
+            "id": 7,
+            "name": "Eric Milner",
+            "email": "milner@gov.usa.com",
+            "phoneNumber": "250780206000"
+        }
+    },
+    {
+        "id": 8,
+        "amount": 500000.00,
+        "invoiceDate": "2024-06-10",
+        "invoiceStatus": "CREATED",
+        "customer": {
+            "id": 5,
+            "name": "Justin Bahizi",
+            "email": "justin.bahizi@gmail.com",
+            "phoneNumber": "250788286350"
+        }
+    }
+]

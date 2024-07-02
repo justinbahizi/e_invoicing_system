@@ -1,0 +1,30 @@
+{
+	"name":"John Doe",
+	"email": "john@example.com",
+	"phoneNumber":"250788006011"
+},
+{
+	"name":"Mary Jane",
+	"email": "jane@example.com",
+	"phoneNumber":"250788296151"
+},
+{
+	"name":"Maxwell Peter",
+	"email": "max@email.domain",
+	"phoneNumber":"250788221100"
+},
+{
+	"name":"Justin Bahizi",
+	"email": "justin.bahizi@minecofin.gov.rw",
+	"phoneNumber":"250788286350"
+},
+{
+	"name":"Karim Johnson",
+	"email": "karim.johnson@gmail.com",
+	"phoneNumber":"250799223355"
+},
+{
+	"name":"Eric Milner",
+	"email": "milner@gov.usa.com",
+	"phoneNumber":"250780206000"
+},
